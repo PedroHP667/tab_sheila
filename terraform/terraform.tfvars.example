@@ -1,0 +1,5 @@
+# Copie para terraform.tfvars (ignorado pelo git). NÃO coloque o token aqui:
+# export TF_VAR_aiven_api_token="..."
+aiven_project = "meu-projeto"
+cloud_name    = "aws-us-east-1"
+pg_plan       = "free-1-1gb"

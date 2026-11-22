@@ -1,0 +1,16 @@
+# Segredos e estado do Terraform (NUNCA versionar)
+.env
+*.tfvars
+!*.tfvars.example
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl.bak
+.streamlit/secrets.toml
+# Dados e caches
+data/raw/*
+!data/raw/.gitkeep
+__pycache__/
+*.pyc
+*.db
+.venv/
