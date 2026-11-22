@@ -2,6 +2,15 @@
 
 Pipeline de engenharia e análise de dados em nuvem a custo zero: **TSE (dados abertos) → ETL Python → Aiven for PostgreSQL (Free) → Streamlit Community Cloud**.
 
+Dashboard online
+https://tabsheila-dlt3mxv9roruzkv3mtvwgr.streamlit.app/
+
+Informações do trabalho
+	
+Disciplina	Computação em Nuvem
+Tema 7	Representatividade Política e Financiamento Eleitoral
+Integrantes	
+
 **Pergunta:** como os recursos de campanha (FEFC, fundo partidário, doações) se distribuem entre candidaturas por **gênero × raça/cor**, e isso se reflete em votos e eleitos?
 
 ## Arquitetura
