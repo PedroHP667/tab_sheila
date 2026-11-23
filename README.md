@@ -7,9 +7,9 @@ https://tabsheila-dlt3mxv9roruzkv3mtvwgr.streamlit.app/
 
 Informações do trabalho
 	
-Disciplina	Computação em Nuvem
+Disciplina	Computação em Nuvem/Engenharia de software 
 Tema 7	Representatividade Política e Financiamento Eleitoral
-Integrantes	
+Integrantes: Pedro Henrique de Carvalho Pereira, Eduardo Costa, Mateus da Cruz, Breno Dias e Felipe Ferreira 
 
 **Pergunta:** como os recursos de campanha (FEFC, fundo partidário, doações) se distribuem entre candidaturas por **gênero × raça/cor**, e isso se reflete em votos e eleitos?
 
