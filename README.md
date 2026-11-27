@@ -93,7 +93,6 @@ streamlit run app/streamlit_app.py
 
 ## Limitações e pontos a validar com os dados reais
 
-1. URLs e nomes de colunas do TSE foram escritos a partir do layout conhecido e **não foram executados contra os arquivos reais**. Confira em `src/ods/config.py` e `transform.py`.
-2. A classificação de fontes é heurística: rode o ETL e revise os valores distintos de fonte/origem antes de confiar nas categorias.
-3. O nome do plano gratuito (`free-1-1gb`) e as regiões liberadas devem ser conferidos no console da Aiven.
-4. Raça/cor é autodeclarada. Os resultados mostram associação, não causalidade.
+1. A classificação de fontes é heurística: rode o ETL e revise os valores distintos de fonte/origem antes de confiar nas categorias.
+2. O nome do plano gratuito (`free-1-1gb`) e as regiões liberadas devem ser conferidos no console da Aiven.
+3. Raça/cor é autodeclarada. Os resultados mostram associação, não causalidade.
