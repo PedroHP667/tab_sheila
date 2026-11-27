@@ -91,7 +91,7 @@ streamlit run app/streamlit_app.py
 - Carga idempotente por ano (reexecutar não duplica).
 - Arquivos `*_BRASIL.csv` preferidos; `receitas_candidatos_doador_originario_*` ignorado.
 
-## Limitações e pontos a validar com os dados reais
+## Limitações e pontos a validar
 
 1. A classificação de fontes é heurística: rode o ETL e revise os valores distintos de fonte/origem antes de confiar nas categorias.
 2. O nome do plano gratuito (`free-1-1gb`) e as regiões liberadas devem ser conferidos no console da Aiven.
